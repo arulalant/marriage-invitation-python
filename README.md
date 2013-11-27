@@ -1,5 +1,3 @@
-My marriage Invitation written in Pyhton.
+I written this marriage invitation script in Pyhton.
 
-Thanks to my brother Arulalan T  <arulalant@gmail.com>
-
-for devolping the code and creating images.
+Using this user can send individual mails with attachemnt (invitation) to many persons.
